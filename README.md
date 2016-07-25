@@ -1,1 +1,1 @@
-# Proyecyo Phonegap
+# Proyecto Phonegap
